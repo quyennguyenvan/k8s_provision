@@ -1,6 +1,6 @@
 1. Approach method, terraform workspace for multi-env
    
-2. update provider config <aws-account> or <aws-profile>
+2. update provider config aws-account or aws-profile
 
 
 ###
